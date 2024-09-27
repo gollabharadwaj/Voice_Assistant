@@ -1,12 +1,6 @@
 # Rolex - Personal Voice Assistant
-Rolex is a Python-based voice assistant that performs a variety of tasks through speech recognition. It uses speech_recognition, pyttsx3, and pywhatkit to listen to user commands and execute actions such as:
 
-> Playing music on YouTube
-> Providing current time and date
-> Searching Wikipedia
-> Telling jokes
-> Opening popular websites like Google, YouTube, Spotify, Netflix, and more
-> Browsing mail, maps, and social media
-> Personalized commands (e.g., interacting with specific sites)
-This project showcases voice-controlled automation, integrating various Python libraries for a seamless experience.
+Rolex is a Python-based voice assistant designed to execute user commands through voice recognition. By leveraging libraries such as speech_recognition, pyttsx3, pywhatkit, and webbrowser, Rolex can interact with users and automate a variety of tasks. It can play music on YouTube, report the current time and date, search Wikipedia for quick information, and even tell jokes. In addition, Rolex can open popular websites and applications such as Google, YouTube, Spotify, Netflix, and LinkedIn, as well as services like Gmail, Google Maps, and WhatsApp Web.
+
+With custom commands integrated, Rolex is a versatile tool for improving productivity, showcasing the potential of voice-controlled automation. This project demonstrates the use of speech recognition technology combined with automation in Python to create an interactive personal assistant.
 
